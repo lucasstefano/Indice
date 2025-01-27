@@ -1,6 +1,6 @@
 {
   "name": "frontend",
-  "homepage": " https://EJCM-workspace.github.io/PSEEntrevista/",
+  "homepage": "https://lucasstefano.github.io/Indice/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -19,7 +19,7 @@
     "bcrypt": "^5.1.1",
     "bcryptjs": "^2.4.3",
     "docx": "^9.0.2",
-    "gh-pages": "^6.2.0",
+    "gh-pages": "^6.3.0",
     "html2canvas": "^1.4.1",
     "jspdf": "^2.5.2",
     "react": "^18.3.1",
