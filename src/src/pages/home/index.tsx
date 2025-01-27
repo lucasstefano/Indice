@@ -131,6 +131,7 @@ const App: React.FC = () => {
 
   return (
     <AppContainer>
+      <Title>{gameOver ? "Game Over! Reiniciando..." : "INDICE: Adivinhe o Número"}</Title>
       <InputContainer>
         {guess.map((digit, index) => (
           <LetterInput
